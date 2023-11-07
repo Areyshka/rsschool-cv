@@ -16,3 +16,8 @@ function isPowerOfTwo(n){
   return true;
 }
 ```
+6. Projects:
+* https://areyshka.github.io/rsschool-cv-old4/
+* https://rolling-scopes-school.github.io/areyshka-JSFEPRESCHOOL2023Q2/library/
+7. JS/FE Pre-School 2023Q2 (incompletely), JavaScript/Front-end 2022Q3 (incompletely).
+8. English: pre-intermediate.
