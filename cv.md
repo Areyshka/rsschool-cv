@@ -32,3 +32,18 @@ function treeSum(arr) {
 }
 ```
 
+## Experience:
+* [Tic Tac Toe](https://areyshka.github.io/IT-Academy/Task-11/)
+* [Coffee House](https://rolling-scopes-school.github.io/areyshka-JSFE2023Q4/coffee-house/index.html)
+
+## Education:
+* University: Grodno State Medical University, 2014-2020, ophthalmologist.
+* Courses:
+    + RS School JS/FE Pre-School 2023Q2
+    + RS School JavaScript/Front-end 2023Q4
+    + IT-Academy JavaScript
+
+## English
+A2 (Elementary) - B1 (Intermediate)
+
+
